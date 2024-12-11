@@ -128,5 +128,3 @@ This project implements an *Inventory Management System* for a bookstore, design
 ---
 
 This project provides a robust foundation for managing a bookstore's operations. Its modular and extensible design makes it easy to adapt and enhance for more complex requirements.
-
-Feel free to contribute or suggest improvements to make this system even better!
